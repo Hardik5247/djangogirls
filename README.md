@@ -1,2 +1,3 @@
 # djangogirls
-nznxvkn
+
+Tutorial for learning basics of Django
